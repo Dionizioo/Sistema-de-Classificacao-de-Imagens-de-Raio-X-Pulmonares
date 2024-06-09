@@ -1,5 +1,9 @@
 # Sistema de Classificação de Imagens de Raio-X Pulmonares
 
+<div style="text-align: center;">
+  <img src="https://github.com/Dionizioo/Sistema-de-Classificacao-de-Imagens-de-Raio-X-Pulmonares/assets/88460475/490777d2-46c4-49e1-b9cf-535263614649" alt="raio" />
+</div>
+
 ## Projeto de Sistema de Classificação de Imagens
 **Disciplina:** Visão Computacional  
 **Professor:** Leonardo Gomes Tavares  
@@ -71,22 +75,3 @@ Classificar entre pulmão saudável ou com pneumonia viral ou bacteriana atravé
 ### Conclusão
 
 O projeto de classificação de imagens de raio-X pulmonares para detectar pneumonia apresentou resultados promissores, com modelos de aprendizado profundo (especialmente VGG e EfficientNet) obtendo desempenhos superiores em comparação aos modelos tradicionais de aprendizado de máquina. A acurácia, precisão, recall e F1 score evidenciaram uma maior capacidade de generalização e identificação das características relevantes nas imagens.
-
-### Agradecimentos
-
-Agradecemos aos membros da equipe, ao professor Leonardo Gomes Tavares e a todos que contribuíram para o desenvolvimento deste projeto.
-
-### Desenvolvimento de Código
-
-[Link para o Notebook no Google Colab](https://colab.research.google.com/drive/1MGrA_ytKnEnv7va7hoKmBm0JkQO7jnTs?usp=sharing)
-
-### Referências
-
-- HASAN, Md Jahid; ALOM, Md Shahin; ALI, Md Shikhar. Deep learning based detection and segmentation of COVID-19 & pneumonia on chest X-ray image. In: 2021 International Conference on Information and Communication Technology for Sustainable Development (ICICT4SD). IEEE, 2021. p. 210-214.
-- IVUSIC, David et al. Annotated Lung CT Image Database. In: 2022 International Symposium ELMAR. IEEE, 2022. p. 165-168.
-- Keras. Documentação de API: Aplicações pré-treinadas de modelos de aprendizado profundo. Disponível em: <https://keras.io/api/applications/>. Acesso em: 04 de maio de 2024.
-- NIMALSIRI, Wimukthi et al. CXLSeg Dataset: Chest X-ray with Lung Segmentation. In: 2023 International Conference On Cyber Management And Engineering (CyMaEn). IEEE, 2023. p. 327-331.
-- OUERHANI, Amira; BOULARES, Souhaila; MAHJOUBI, Halima. Automated Detection of Pediatric Pneumonia from Chest X-Ray Images Using Deep Learning Models. In: 2023 IEEE Afro-Mediterranean Conference on Artificial Intelligence (AMCAI). IEEE, 2023. p. 1-7.
-- SAPOUNTZAKIS, Georgios; THEOFILOU, Paraskevi-Antonia; TZOUVELI, Paraskevi. Covid-19 Detection From X-Rays Images Using Deep Learning Methods. In: 2023 IEEE International Conference on Acoustics, Speech, and Signal Processing Workshops (ICASSPW). IEEE, 2023. p. 1-5.
-- SREENA, V. G.; PONRAJ, Narain; DEEPA, P. L. Study on public chest x-ray data sets for lung disease classification. In: 2021 3rd International Conference on Signal Processing and Communication (ICPSC). IEEE, 2021. p. 54-58.
-- YANG, Feng et al. Annotations of lung abnormalities in the Shenzhen chest X-ray dataset for computer-aided screening of pulmonary diseases. Data, v. 7, n. 7, p. 95, 2022.
