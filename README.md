@@ -1,7 +1,7 @@
 # Sistema de Classificação de Imagens de Raio-X Pulmonares
 
 <div style="text-align: center;">
-  <img src="https://github.com/Dionizioo/Sistema-de-Classificacao-de-Imagens-de-Raio-X-Pulmonares/assets/88460475/490777d2-46c4-49e1-b9cf-535263614649" alt="raio" />
+  <img src="https://github.com/Dionizioo/Sistema-de-Classificacao-de-Imagens-de-Raio-X-Pulmonares/assets/88460475/490777d2-46c4-49e1-b9cf-535263614649" width="200" >
 </div>
 
 ## Projeto de Sistema de Classificação de Imagens
